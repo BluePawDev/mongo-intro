@@ -1,2 +1,1 @@
-# mongo-intro
-mongo-intro
+# MongoDB Intro
